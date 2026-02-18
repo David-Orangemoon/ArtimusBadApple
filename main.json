@@ -2,6 +2,7 @@
     "name": "Test",
     "author": "ObviousAlexC",
     "version": "1.0.0",
+    "icon": "icon.png",
     "files": [
         "extension.js"
     ],
