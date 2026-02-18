@@ -1,10 +1,10 @@
 {
-    "Name": "Test",
-    "Author": "ObviousAlexC",
-    "Files": [
+    "name": "Test",
+    "author": "ObviousAlexC",
+    "files": [
         "extension.js"
     ],
-    "Translations": {
+    "translations": {
         "english": "lang/english.json"
     }
 }
