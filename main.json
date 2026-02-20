@@ -1,9 +1,9 @@
 {
-    "name": "Test",
-    "id": "testExt",
+    "name": "Bad Apple",
+    "id": "badApple",
     "author": "ObviousAlexC",
     "version": "1.0.0",
-    "icon": "icon.png",
+    "icon": "icon.gif",
     "files": [
         "extension.js"
     ],
